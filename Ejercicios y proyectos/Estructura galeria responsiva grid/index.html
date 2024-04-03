@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css grid</title>
+    <style>
+        #grid {
+            height: 500px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
+            gap: 20px;
+        }
+        
+        #Elemento_1{
+            background-color: red;
+            grid-column: 1/2;
+            grid-row:1/4;
+        } 
+        
+        #Elemento_2{
+            background-color: blue;
+        }
+        #Elemento_3{
+            background-color: black;
+            grid-row: 2/4;
+            
+        }
+        #Elemento_4{
+            background-color: skyblue;
+            grid-column: 3;
+            grid-row: 1/4;
+        }
+
+
+        @media screen and (max-width: 600px) {
+            #grid {
+                height: 800px;
+                display: grid;
+                grid-template-columns: 100%;
+                grid-template-rows: 1fr 1fr 1fr 1fr;
+            }
+            #Elemento_1{
+                background-color: red;
+                grid-column: 1;
+                grid-row: 1;
+            } 
+            
+            #Elemento_2{
+                background-color: blue;
+                grid-column: 1;
+                grid-row: 2;
+            }
+            #Elemento_3{
+                background-color: black;
+                grid-column: 1;
+                grid-row: 3;
+                
+            }
+            #Elemento_4{
+                background-color: skyblue;
+                grid-column: 1;
+                grid-row: 4;
+            }
+
+        }
+    </style>
+</head>
+<body>
+    <div id="contenedor_grid">
+        <div id="grid">
+            <div id="Elemento_1">Elemento 1</div>
+            <div id="Elemento_2">Elemento 2</div>
+            <div id="Elemento_3">Elemento 3</div>
+            <div id="Elemento_4">Elemento 4</div>
+        </div>
+
+    </div>
+</body>
+</html>
