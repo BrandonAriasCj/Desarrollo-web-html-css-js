@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "866996bf1502a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "aab5dab57d20587a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readline sync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismo de css grid para el posicionamiento de elementos.md",
+                "file": "Readline sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismo de css grid para el posicionamiento de elementos.md",
+                "file": "Readline sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismo de css grid para el posicionamiento de elementos.md"
+                "file": "Readline sync.md"
               }
             }
           }
@@ -159,8 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "111ab51d1d320590",
+  "active": "aab5dab57d20587a",
   "lastOpenFiles": [
+    "Readline sync.md",
+    "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.html",
+    "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.js",
+    "Ejercicios y proyectos/Ejercicios de js",
+    "Ejercicios y proyectos/Estructura galeria responsiva grid/index.html",
+    "Ejercicios y proyectos/Estructura galeria responsiva grid",
     "Guia para dominar css grid.md",
     "Mecanismo de css grid para el posicionamiento de elementos.md",
     "Ejercicios y proyectos/minicss/style.css",
