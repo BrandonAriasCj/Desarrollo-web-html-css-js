@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a934e00f913ef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO EN JAVASCRIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readline sync.md",
+                "file": "POO EN JAVASCRIPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readline sync.md",
+                "file": "POO EN JAVASCRIPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readline sync.md"
+                "file": "POO EN JAVASCRIPT.md"
               }
             }
           }
@@ -181,9 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aab5dab57d20587a",
+  "active": "5a934e00f913ef25",
   "lastOpenFiles": [
     "Readline sync.md",
+    "POO EN JAVASCRIPT.md",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.html",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.js",
     "Ejercicios y proyectos/Ejercicios de js",

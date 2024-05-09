@@ -39,7 +39,8 @@ console.log('Valor ingresado:', userInput);
 Estos códigos solicitarán al usuario que ingrese un valor desde la consola y luego mostrarán el valor ingresado. La ejecución de estos programas se detendrá hasta que el usuario ingrese la entrada, lo que simula el comportamiento similar al de `Scanner` en Java.
 
 ## SIN NPM
-Si deseas utilizar `readline-sync` o `prompt-sync` sin instalarlas a través de npm, puedes descargar los archivos correspondientes y agregarlos manualmente a tu proyecto. Aquí te muestro cómo puedes hacerlo:
+Si deseas utilizar `readline-sync` o 
+`prompt-sync` sin instalarlas a través de npm, puedes descargar los archivos correspondientes y agregarlos manualmente a tu proyecto. Aquí te muestro cómo puedes hacerlo:
 
 1. **readline-sync**:
    - Ve al repositorio de `readline-sync` en GitHub: [readline-sync](https://github.com/anseki/readline-sync).
