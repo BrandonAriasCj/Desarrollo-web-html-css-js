@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "181b6738eacb6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Métodos para atributos HTML en JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO EN JAVASCRIPT.md",
+                "file": "Métodos para atributos HTML en JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO EN JAVASCRIPT.md",
+                "file": "Métodos para atributos HTML en JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POO EN JAVASCRIPT.md"
+                "file": "Métodos para atributos HTML en JS.md"
               }
             }
           }
@@ -193,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a934e00f913ef25",
+  "active": "181b6738eacb6bc6",
   "lastOpenFiles": [
-    "Readline sync.md",
     "POO EN JAVASCRIPT.md",
+    "Métodos para atributos HTML en JS.md",
+    "Readline sync.md",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.html",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.js",
     "Ejercicios y proyectos/Ejercicios de js",
