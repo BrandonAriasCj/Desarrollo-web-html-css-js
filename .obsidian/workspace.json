@@ -8,70 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32f076eedae4f9be",
+            "id": "5da8fe08041471b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia para dominar css grid.md",
+                "file": "Preguntas de verdad Ayax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "111ab51d1d320590",
+            "id": "2159171446fbe660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismo de css grid para el posicionamiento de elementos.md",
+                "file": "Referencias ABSOLUTAS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "866996bf1502a7cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "aab5dab57d20587a",
+            "id": "3c495d3c950fff54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readline sync.md",
+                "file": "como optimizar imagenes 3D.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a934e00f913ef25",
+            "id": "1dd8e4b50942fb19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POO EN JAVASCRIPT.md",
+                "file": "indicadores de velocidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "181b6738eacb6bc6",
+            "id": "8eb23347104b9719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Métodos para atributos HTML en JS.md",
+                "file": "Correos de confirmación utilizando js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65b88f3500fe4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencias ABSOLUTAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "absoluta y relativas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Métodos para atributos HTML en JS.md",
+                "file": "Referencias ABSOLUTAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Métodos para atributos HTML en JS.md",
+                "file": "Referencias ABSOLUTAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Métodos para atributos HTML en JS.md"
+                "file": "Referencias ABSOLUTAS.md"
               }
             }
           }
@@ -205,18 +208,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "181b6738eacb6bc6",
+  "active": "e65b88f3500fe4b6",
   "lastOpenFiles": [
-    "POO EN JAVASCRIPT.md",
+    "indicadores de velocidad.md",
+    "Correos de confirmación utilizando js.md",
+    "como optimizar imagenes 3D.md",
+    "Referencias ABSOLUTAS.md",
+    "Peticiones AYAX.md",
+    "Preguntas de verdad Ayax.md",
+    "Comparación y búsqueda de textos y fragmentos.md",
     "Métodos para atributos HTML en JS.md",
+    "POO EN JAVASCRIPT.md",
     "Readline sync.md",
+    "Mecanismo de css grid para el posicionamiento de elementos.md",
+    "Guia para dominar css grid.md",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.html",
     "Ejercicios y proyectos/Ejercicios de js/Ejercicio01.js",
     "Ejercicios y proyectos/Ejercicios de js",
     "Ejercicios y proyectos/Estructura galeria responsiva grid/index.html",
     "Ejercicios y proyectos/Estructura galeria responsiva grid",
-    "Guia para dominar css grid.md",
-    "Mecanismo de css grid para el posicionamiento de elementos.md",
     "Ejercicios y proyectos/minicss/style.css",
     "Ejercicios y proyectos/minicss/index.html",
     "Ejercicios y proyectos/minicss",
