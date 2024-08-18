@@ -78,9 +78,91 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "250db3cd5384edfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Que son los At-rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cee0200b4338c590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variable root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d029ccfeea083c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "592664c768060e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparación y búsqueda de textos y fragmentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37234575714d8676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codigo iteresante model view/Animaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5feca098ea6a8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilizar animaciones de glb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dcbd8eb1bf53e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Busqueda de constraseñas hardcodeades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -109,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "absoluta y relativas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +208,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Referencias ABSOLUTAS.md",
+                "file": "Busqueda de constraseñas hardcodeades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Referencias ABSOLUTAS.md",
+                "file": "Busqueda de constraseñas hardcodeades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Referencias ABSOLUTAS.md"
+                "file": "Busqueda de constraseñas hardcodeades.md"
               }
             }
           }
@@ -208,15 +289,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e65b88f3500fe4b6",
+  "active": "4dcbd8eb1bf53e58",
   "lastOpenFiles": [
+    "Utilizar animaciones de glb.md",
+    "Busqueda de constraseñas hardcodeades.md",
+    "Three.js/Metodo perspectiveCamera.md",
+    "Preguntas de verdad Ayax.md",
+    "Three.js",
+    "Comparación y búsqueda de textos y fragmentos.md",
+    "Codigo iteresante model view/Animaciones.md",
+    "como optimizar imagenes 3D.md",
+    "Codigo iteresante model view",
+    "Que son los At-rules.md",
+    "Variable root.md",
+    "Referencias ABSOLUTAS.md",
     "indicadores de velocidad.md",
     "Correos de confirmación utilizando js.md",
-    "como optimizar imagenes 3D.md",
-    "Referencias ABSOLUTAS.md",
     "Peticiones AYAX.md",
-    "Preguntas de verdad Ayax.md",
-    "Comparación y búsqueda de textos y fragmentos.md",
     "Métodos para atributos HTML en JS.md",
     "POO EN JAVASCRIPT.md",
     "Readline sync.md",
@@ -229,7 +318,6 @@
     "Ejercicios y proyectos/Estructura galeria responsiva grid",
     "Ejercicios y proyectos/minicss/style.css",
     "Ejercicios y proyectos/minicss/index.html",
-    "Ejercicios y proyectos/minicss",
-    "Ejercicios y proyectos"
+    "Ejercicios y proyectos/minicss"
   ]
 }
